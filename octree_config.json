@@ -1,0 +1,6 @@
+{
+    "stl_file": "stanford_bunny.stl",
+    "max_cell_size": 15.0,
+    "min_cell_size": 0.5,
+    "coeff": 1.25
+}
